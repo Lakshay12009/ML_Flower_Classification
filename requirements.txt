@@ -1,8 +1,6 @@
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
-os
 streamlit
-sklearn.datasets
-pickle
+scikit-learn
